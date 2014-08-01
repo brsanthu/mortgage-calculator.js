@@ -25,7 +25,8 @@ Example
 
 Request
 -------
-{
+```javascript
+   {
       "salePrice":50000,
       "interestRate":5,
       "loanTermMonths":12,
@@ -50,6 +51,7 @@ Request
          }
       ]
    }
+```
 
 Response
 --------
