@@ -11,9 +11,9 @@ Features
 * Fixed Interest Mortgage
 * ARM Mortgage with Initial Cap, Periodic Cap, Lifetime Cap and arbitrary (at a month interval) monthly intervals.
 * Supports adding any number of extra payments (either one time or at a particular periodic intervals)
-* Creates the amortized payment schedule for entire loan term
+* Creates the amortized payment schedule for entire loan term with exact payment date
 * Takes down payment as dollar amount or percentage of sale price
-* Calculates the roll up summary by to date, loan year and calendar year.
+* Calculates the roll up summary by ToDate, loan year and calendar year.
 * Supports adding property tax into payment total
 * Calculates the total loan cost
 
