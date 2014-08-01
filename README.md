@@ -55,6 +55,7 @@ Request
 
 Response
 --------
+```javascript
 {
    "loanTermMonths":12,
    "salePrice":50000,
@@ -401,3 +402,4 @@ Response
    "numberOfPayments":12,
    "monthlyPayment":3424.3
 }
+```
