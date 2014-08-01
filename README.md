@@ -26,30 +26,30 @@ Example
 Request
 -------
 {
-   "salePrice":50000,
-   "interestRate":5,
-   "loanTermMonths":12,
-   "propertyTaxRate":0,
-   "adjustFixedRateMonths":6,
-   "adjustInitialCap":0.25,
-   "adjustPeriodicCap":0.25,
-   "adjustLifetimeCap":15,
-   "startDate":"2014-08-01T00:27:47.788Z",
-   "extras":[
-      {
-         "startMonth":1,
-         "endMonth":180,
-         "extraIntervalMonths":1,
-         "extraAmount":100
-      },
-      {
-         "startMonth":1,
-         "endMonth":180,
-         "extraIntervalMonths":12,
-         "extraAmount":1000
-      }
-   ]
-}
+      "salePrice":50000,
+      "interestRate":5,
+      "loanTermMonths":12,
+      "propertyTaxRate":0,
+      "adjustFixedRateMonths":6,
+      "adjustInitialCap":0.25,
+      "adjustPeriodicCap":0.25,
+      "adjustLifetimeCap":15,
+      "startDate":"2014-08-01T00:27:47.788Z",
+      "extras":[
+         {
+            "startMonth":1,
+            "endMonth":180,
+            "extraIntervalMonths":1,
+            "extraAmount":100
+         },
+         {
+            "startMonth":1,
+            "endMonth":180,
+            "extraIntervalMonths":12,
+            "extraAmount":1000
+         }
+      ]
+   }
 
 Response
 --------
